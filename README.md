@@ -26,7 +26,7 @@ This file contains a number of Flutter interview questions.
 Title: Flutter Interview Questions
 ---
 
-* What is the difference between a `StatelessWidget` and a `StatefulWidget` in Flutter?
+* What is the difference between a `StatelessWidget` and a `StatefulWidget`? [Answer](https://stackoverflow.com/questions/47501710/what-is-the-relation-between-stateful-and-stateless-widgets-in-flutter#:~:text=In%20Flutter%2C%20the%20difference%20is,with%20the%20same%20constructor%20arguments)
 * Explain the  Stateful Widget Lifecycle?
 * When do you use the `WidgetsBindingObserver`?
 * What is Flutter tree shaking?
